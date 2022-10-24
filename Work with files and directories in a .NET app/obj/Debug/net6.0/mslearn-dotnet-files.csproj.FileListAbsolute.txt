@@ -1,0 +1,15 @@
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.exe
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.deps.json
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.dll
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.pdb
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.dll
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\refint\mslearn-dotnet-files.dll
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.pdb
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.genruntimeconfig.cache
+C:\Users\Fina Khairunnisa\Documents\mslearn-dotnet-files\obj\Debug\net6.0\ref\mslearn-dotnet-files.dll
